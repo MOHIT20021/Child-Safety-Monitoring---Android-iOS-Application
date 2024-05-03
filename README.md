@@ -22,5 +22,4 @@ Play a beep alarm sound on your device (Phone A), with an option to switch OFF t
 Display the real-time location of phone A on phone B and play a beep sound on Phone B.
 If the alarm is not switched OFF within 5 seconds by Phone A, a) Switch on the microphone of phone A automatically and start recording. b) Send an SOS from phone A to phone B by transmitting the recorded sound and images using mobile internet network
 
-
-# Here Sender File should be on the Child's phone and Receiver File should be on the parents phone.
+%% Here Sender File should be on the Child's phone and Receiver File should be on the parents phone.
