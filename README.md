@@ -23,3 +23,7 @@ Display the real-time location of phone A on phone B and play a beep sound on Ph
 If the alarm is not switched OFF within 5 seconds by Phone A, a) Switch on the microphone of phone A automatically and start recording. b) Send an SOS from phone A to phone B by transmitting the recorded sound and images using mobile internet network
 
 %% Here Sender File should be on the Child's phone and Receiver File should be on the parents phone.
+
+
+# Values and Parameter 
+Here we are measuring the sum of square of Acceleration and using it to detech fall. Fall detectiong sensitivity can be changed depending on the values in switch (under threshold) in subsystem2. For location here only latitude is compared. One can change the Threshold value of latitude which is available Subsystem5. Also one can change the time before switiching on the microphones by changing the Hit value in subsystem4  
